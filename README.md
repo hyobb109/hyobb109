@@ -20,8 +20,7 @@
     <img src="https://img.shields.io/badge/Vim-019733.svg?&style=for-the-badge&logo=Vim&logoColor=FFFFFF"> 
   </p>
 </p>
-
-### ▫️▫️▫️▫️▫️▫️▫️▫️▫️▫️▫️▫️▫️▫️▫
+▫️▫️▫️▫️▫️▫️▫️▫️▫️▫️▫️▫️▫️▫️▫
 
 
 
