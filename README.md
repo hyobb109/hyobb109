@@ -3,8 +3,8 @@
 ![hyobb's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyobb109&show_icons=true&theme=nightowl)
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clal1hna700060gl93fwo7opd/stats?cursusId=21&coalitionId=87" alt="hyobicho's 42 stats" /></a>
 <p> ⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️ </p>
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=chodl201">
-### ▫️▫️▫️▫️▫️▫️▫️▫️▫️▫️▫️▫️▫️▫️▫
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=chodl201">
+▫️▫️▫️▫️▫️▫️▫️▫️▫️▫️▫️▫️▫️▫️▫
 <p>
   <img src="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=FFFFFF">
   <img src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=FFFFFF">
