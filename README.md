@@ -6,6 +6,7 @@
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=chodl201">
 ▫️▫️▫️▫️▫️▫️▫️▫️▫️▫️▫️▫️▫️▫️▫
 <p>
+  <br>
   <img src="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=FFFFFF">
   <img src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=FFFFFF">
 </p>
