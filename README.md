@@ -1,7 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Хёпин's%20GitHub&fontSize=70)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyobb109&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 ![hyobb's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyobb109&show_icons=true&theme=nightowl)
-<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clal1hna700060gl93fwo7opd/stats?cursusId=21&coalitionId=87" alt="hyobicho's 42 stats" /></a>
 <p> ⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️ </p>
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=chodl201">
 ▫️▫️▫️▫️▫️▫️▫️▫️▫️▫️▫️▫️▫️▫️▫
