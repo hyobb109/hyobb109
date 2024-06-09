@@ -1,5 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Хёпин's%20GitHub&fontSize=70)
-  <img src="https://img.shields.io/badge/42seoul-000000?style=for-the-badge&logo=42&logoColor=ffffff"/>
+
+  <img src="https://img.shields.io/badge/42seoul-000000?style=flat&logo=42&logoColor=ffffff"/> Cadet 2023.11.07 ~
+ 
+ --------------
+  ### Projects
+  - [42gg🏓](https://gg.42seoul.kr/) (2023.07 ~ 2023.09) <a href="https://github.com/42organization/42gg.client"><img src="https://img.shields.io/badge/github-181717?style=flat&logo=GitHub&logoColor=ffffff"/></a>
+  - Transcendence (2024.05 ~ ) <a href="https://github.com/Retro-pong/Transcendence/tree/main/frontend"><img src="https://img.shields.io/badge/github-181717?style=flat&logo=GitHub&logoColor=ffffff"/></a>
+  --------------
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyobb109&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 ![hyobb's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyobb109&show_icons=true&theme=nightowl)
