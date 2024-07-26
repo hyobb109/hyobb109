@@ -6,6 +6,7 @@
   ### Projects
   - [42gg🏓](https://gg.42seoul.kr/) (2023.07 ~ 2023.09) <a href="https://github.com/42organization/42gg.client"><img src="https://img.shields.io/badge/github-181717?style=flat&logo=GitHub&logoColor=ffffff"/></a>
   - Transcendence (2024.05 ~ ) <a href="https://github.com/Retro-pong/Transcendence/tree/main/frontend"><img src="https://img.shields.io/badge/github-181717?style=flat&logo=GitHub&logoColor=ffffff"/></a>
+  - [심심조각](https://dear-my-peace.site/)📝
   --------------
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyobb109&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
