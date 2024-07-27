@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Хёпин's%20GitHub&fontSize=70)
 
-  <img src="https://img.shields.io/badge/42seoul-000000?style=flat&logo=42&logoColor=ffffff"/> Cadet 2023.11.07 ~
+  <img src="https://img.shields.io/badge/42seoul-000000?style=flat&logo=42&logoColor=ffffff"/> Cadet 2022.11.07 ~
  
  --------------
   ### Projects
