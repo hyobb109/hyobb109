@@ -4,9 +4,10 @@
  
  --------------
   ### Projects
-  - [42gg🏓](https://gg.42seoul.kr/) (2023.07 ~ 2023.09) <a href="https://github.com/42organization/42gg.client"><img src="https://img.shields.io/badge/github-181717?style=flat&logo=GitHub&logoColor=ffffff"/></a>
-  - Transcendence (2024.05 ~ 2024.07) <a href="https://github.com/Retro-pong/Transcendence"><img src="https://img.shields.io/badge/github-181717?style=flat&logo=GitHub&logoColor=ffffff"/></a>
-  - [심심조각](https://dear-my-peace.site/)📝 (2024.06 ~ 2024.07) <a href="https://github.com/DearMyPeace"><img src="https://img.shields.io/badge/github-181717?style=flat&logo=GitHub&logoColor=ffffff"/></a>
+  - [함께뜨자🧶](https://knittogether.online) (2024.11 ~ 2025.03) <a href="https://github.com/Knitogether"><img src="https://img.shields.io/badge/github-181717?style=flat&logo=GitHub&logoColor=ffffff"/>
+  - [심심조각📝](https://dear-my-peace.site/) (2024.06 ~ 2025.03) <a href="https://github.com/DearMyPeace"><img src="https://img.shields.io/badge/github-181717?style=flat&logo=GitHub&logoColor=ffffff"/>
+  - Transcendence (2024.05 ~ 2024.07) <a href="https://github.com/Retro-pong/Transcendence"><img src="https://img.shields.io/badge/github-181717?style=flat&logo=GitHub&logoColor=ffffff"/>
+  - [42gg🏓](https://gg.42seoul.kr/) (2023.07 ~ 2023.09) <a href="https://github.com/42organization/42gg.client"><img src="https://img.shields.io/badge/github-181717?style=flat&logo=GitHub&logoColor=ffffff"/>
   --------------
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyobb109&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
